@@ -1,5 +1,5 @@
 import styled from "styled-components";
-import { Container, Button } from "../../globalStyles";
+import { Container } from "../../globalStyles";
 import { Link } from "react-router-dom";
 import { FaMagento } from "react-icons/fa";
 
