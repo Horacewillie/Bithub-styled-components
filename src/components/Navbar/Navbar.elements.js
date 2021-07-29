@@ -1,7 +1,7 @@
 import styled from "styled-components";
 import { Container } from "../../globalStyles";
 import { Link } from "react-router-dom";
-import { FaMagento } from "react-icons/fa";
+import { FaBitcoin } from "react-icons/fa";
 
 export const Nav = styled.nav`
   background: #101522;
@@ -29,7 +29,7 @@ export const NavLogo = styled(Link)`
   align-items: center;
 `;
 
-export const NavIcon = styled(FaMagento)`
+export const NavIcon = styled(FaBitcoin)`
   margin-right: 0.5rem;
 `;
 

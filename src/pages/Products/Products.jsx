@@ -1,11 +1,10 @@
-import { homeObjFour, homeObjOne, homeObjTwo, homeObjThree } from './Data'
+import { homeObjFour,homeObjTwo, homeObjThree } from './Data'
 import {InfoSection, Pricing} from '../../components'
 
 
 const Home = () => {
     return (
         <>
-          <InfoSection {...homeObjOne}/>  
           <InfoSection {...homeObjTwo}/> 
           <InfoSection {...homeObjThree}/>
           <Pricing /> 

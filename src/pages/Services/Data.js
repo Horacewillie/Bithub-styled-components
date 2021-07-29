@@ -10,7 +10,7 @@ export const  homeObjOne = {
   lightText:true,
   primary: true,
   description:'We help businesses and individuals maximise the efficient use of cryptocurrency.',
-  headline:'Lead Generation Specialist for Cyptocurrency experts',
+  headline:'Lead Hub  for your Cyptocurrency needs',
   buttonLabel:'Get Started',
   topLine:'Trade Coins',
   lightTopLine:true,
